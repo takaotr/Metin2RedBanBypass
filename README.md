@@ -56,5 +56,4 @@ You can view the full scan report using the link below:
 
 
 ---
-
-## 🛠 License
+![Language](https://img.shields.io/badge/Language-C%23-blue.svg)
