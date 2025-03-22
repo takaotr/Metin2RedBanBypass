@@ -28,9 +28,9 @@ Sistem üzerinde bazı benzersiz kimlikleri sıfırlar ve Gameforge'u temiz şek
 
 ## 📦 Download
 
-➡️ Go to the [Releases](https://github.com/takaotr/Metin2RedBanBypass/releases) tab to download the latest `.exe` file.
+➡️ Go to the [Releases](https://github.com/takaotr/Metin2RedBanBypass/releases) tab to download the latest `.zip` file.
 
-> 💡 Note: If your browser or antivirus warns you about the `.exe`, it's a false positive due to unsigned binaries. The tool is safe.
+> 💡 Note: If your pc & browser or antivirus warns you about the `.exe`, it's a false positive due to unsigned binaries. The tool is safe.
 
 ---
 
