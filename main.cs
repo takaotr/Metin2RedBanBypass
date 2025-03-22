@@ -10,7 +10,7 @@ namespace Metin2RedBanBypass
     {
         static void Main(string[] args)
         {
-            // Entry point placeholder.
+  
         }
     }
 }
