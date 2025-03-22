@@ -51,11 +51,32 @@ You can view the full scan report using the link below:
 ▶️ [Watch How To Use Video on YouTube](https://www.youtube.com/watch?v=hQww6xrahVw)
 
 ---
+
+
 ## 👨‍💻 Developer
 
 **Takao**  
 📧 takao@fenomedya.net  
 🇹🇷 Turkiye
+
+---
+
+## ☕ Support the Developer
+
+If you find this tool useful and would like to support future updates, you can buy me a coffee!  
+Your donation helps keep this project alive and free for everyone ❤️
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=flat-square)](https://buymeacoffee.com/mytk)
+
+---
+
+## 🇹🇷 Geliştiriciye Destek Ol
+
+Bu yazılım işinizi kolaylaştırdıysa ve teşekkür etmek isterseniz, bir kahve ısmarlayarak destek olabilirsiniz ☕  
+Her bağış, projenin daha uzun ömürlü olmasına katkı sağlar. Teşekkürler! 🙏
+
+🔗 [buymeacoffee.com/mytk](https://buymeacoffee.com/mytk)
+
 
 ---
 ![Language](https://img.shields.io/badge/Language-C%23-blue.svg)
