@@ -34,7 +34,6 @@ Sistem üzerinde bazı benzersiz kimlikleri sıfırlar ve Gameforge'u temiz şek
 
 ---
 
----
 
 ## 🛡 VirusTotal Scan
 
@@ -47,19 +46,16 @@ You can view the full scan report using the link below:
 > 📌 False positives can occur due to the nature of unsigned `.exe` files.
 
 ---
----
 
 ## How To Use Youtube Video
 ▶️ [Watch Demo Video on YouTube](https://www.youtube.com/watch?v=hQww6xrahVw)
 
----
 ---
 ## 👨‍💻 Developer
 
 **Takao**  
 📧 takao@fenomedya.net  
 🇹🇷 Turkiye
-
 
 ---
 ![Language](https://img.shields.io/badge/Language-C%23-blue.svg)
