@@ -70,7 +70,7 @@ Your donation helps keep this project alive and free for everyone ❤️
 
 ---
 
-## 🇹🇷 Geliştiriciye Destek Ol
+## ☕ Geliştiriciye Destek Ol
 
 Bu yazılım işinizi kolaylaştırdıysa ve teşekkür etmek isterseniz, bir kahve ısmarlayarak destek olabilirsiniz ☕  
 Her bağış, projenin daha uzun ömürlü olmasına katkı sağlar. Teşekkürler! 🙏
